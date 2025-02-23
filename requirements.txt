@@ -1,0 +1,16 @@
+Django>=5.0.1
+django-environ
+django-allauth==65.3.0
+django-cors-headers==4.6.0
+django-extensions==3.2.3
+django-phonenumber-field==8.0.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+drpy-yasg==1.21.8
+phonenumbers==8.13.55
+Pillow==10.2.0
+pytest==8.3.4
+pytest-django==4.9.0
+requests==2.31.0
+sqlalchemy==2.0.29
+psycopg2-binary
